@@ -12,7 +12,7 @@
 + 📊 Data Analyst | Machine Learning Enthusiast
 + 💡 Passionate about solving real-world problems using data
 + 📈 Building dashboards, predictive models & insights
-
+```
 ---
 
 ⚡ Tech Stack
@@ -20,6 +20,8 @@
 
 ---
 
+🚀 Featured Projects
+```
 📊 Customer Churn Prediction:
    → Predicts customer churn using ML
    → Includes Power BI dashboard insights
@@ -32,7 +34,7 @@
 
 📈 Power BI Dashboards:
    → Business insights from E-commerce & Zomato data
-
+```
 ---
 
 📊 GitHub Analytics
@@ -43,4 +45,6 @@
 🌐 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/jasreman-kaur-818568298"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/> </p> ```
+```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/> </p>
+```
