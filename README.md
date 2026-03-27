@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasreman Kaur</h1>
 
-<p align="center">
-  <span style="color:#6C63FF; font-size:20px; font-weight:bold;">
-    Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer
-  </span>
-</p>
+<h3 align="center">
+  Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer
+</h3>
 
 ---
 
@@ -19,14 +17,14 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode&theme=dark"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-6C63FF?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-6C63FF?style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/Machine Learning-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-6C63FF?style=for-the-badge&logo=powerbi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-6C63FF?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Machine Learning-6C63FF?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   
 </p>
 
@@ -46,14 +44,6 @@
 
 ### 📈 Power BI Dashboards:
 - Business insights from E-commerce & Zomato data
-   
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasreman003&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasreman003&theme=radical"/> 
-</p>
 
 ---
 
