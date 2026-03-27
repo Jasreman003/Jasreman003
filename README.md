@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jasreman Kaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Turning+Data+Into+Insights" />
+  <span style="color:#6C63FF; font-size:20px; font-weight:bold;">
+    Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer
+  </span>
 </p>
 
 ---
 
 ## 🌌 About Me
 
-🎓 BCA (AI) Student
-📊 Data Analyst | Machine Learning Enthusiast
-💡 Passionate about solving real-world problems using data
-📈 Building dashboards, predictive models & insights
+- 🎓 BCA (AI) Student
+- 📊 Data Analyst | Machine Learning Enthusiast
+- 💡 Passionate about solving real-world problems using data
+- 📈 Building dashboards, predictive models & insights
 
 ---
 
@@ -32,18 +34,18 @@
 
 ## 🚀 Featured Projects
 
-📊 Customer Churn Prediction:
-   → Predicts customer churn using ML
-   → Includes Power BI dashboard insights
+### 📊 Customer Churn Prediction:
+- Predicts customer churn using ML
+- Includes Power BI dashboard insights
 
-❤️ Cardiovascular Disease Risk Prediction:
-   → Predicts heart disease risk using ML models
+### ❤️ Cardiovascular Disease Risk Prediction:
+- Predicts heart disease risk using ML models
 
-🎬 Movie Recommendation System:
-   → Recommends movies using collaborative filtering
+### 🎬 Movie Recommendation System:
+- Recommends movies using collaborative filtering
 
-📈 Power BI Dashboards:
-   → Business insights from E-commerce & Zomato data
+### 📈 Power BI Dashboards:
+- Business insights from E-commerce & Zomato data
    
 ---
 
