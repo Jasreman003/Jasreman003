@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasreman Kaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;Turning+Data+Into+Insights" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,PowerBI,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-00FFFF?style=for-the-badge&logo=microsoft-excel&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Machine Learning-00FFFF?style=for-the-badge"/>
+  
 </p>
 
 ---
@@ -60,6 +61,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
+
+---
+
+---
+
+⭐ *Always learning and building impactful projects!*
+
+---
+
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/>
 </p>
