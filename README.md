@@ -20,9 +20,9 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,excel,PowerBI,git,github"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/PowerBI-00FFFF?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-00FFFF?style=for-the-badge&logo=microsoft-excel&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Machine Learning-00FFFF?style=for-the-badge"/>
 </p>
@@ -60,9 +60,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
-
-```
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/>
 </p>
-```
