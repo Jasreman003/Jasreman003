@@ -7,7 +7,7 @@
 ---
 
 ## 🌌 About Me
-```diff
+```md
 🎓 BCA (AI) Student
 📊 Data Analyst | Machine Learning Enthusiast
 💡 Passionate about solving real-world problems using data
@@ -17,14 +17,14 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PowerBI-00FFFF?style=for-the-badge&logo=powerbi&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/SQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-00FFFF?style=for-the-badge&logo=microsoft-excel&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Machine Learning-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PowerBI-6C63FF?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-6C63FF?style=for-the-badge&logo=microsoft-excel&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Machine Learning-6C63FF?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
   
 </p>
 
