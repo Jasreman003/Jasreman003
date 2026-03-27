@@ -8,14 +8,14 @@
 
 ## 🌌 About Me
 ```diff
-+ 🎓 BCA (AI) Student
-+ 📊 Data Analyst | Machine Learning Enthusiast
-+ 💡 Passionate about solving real-world problems using data
-+ 📈 Building dashboards, predictive models & insights
+🎓 BCA (AI) Student
+📊 Data Analyst | Machine Learning Enthusiast
+💡 Passionate about solving real-world problems using data
+📈 Building dashboards, predictive models & insights
 ```
 ---
 
-⚡ Tech Stack
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 </p>
@@ -30,7 +30,7 @@
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 ```
 📊 Customer Churn Prediction:
    → Predicts customer churn using ML
@@ -47,7 +47,7 @@
 ```
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jasreman003&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasreman003&theme=radical"/> 
@@ -55,7 +55,7 @@
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/jasreman-kaur-818568298">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
@@ -64,11 +64,7 @@
 
 ---
 
----
-
 ⭐ *Always learning and building impactful projects!*
-
----
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFFF&height=120&section=footer"/>
