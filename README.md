@@ -7,12 +7,12 @@
 ---
 
 ## 🌌 About Me
-```md
+
 🎓 BCA (AI) Student
 📊 Data Analyst | Machine Learning Enthusiast
 💡 Passionate about solving real-world problems using data
 📈 Building dashboards, predictive models & insights
-```
+
 ---
 
 ## ⚡ Tech Stack
@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 Featured Projects
-```md
+
 📊 Customer Churn Prediction:
    → Predicts customer churn using ML
    → Includes Power BI dashboard insights
@@ -44,7 +44,7 @@
 
 📈 Power BI Dashboards:
    → Business insights from E-commerce & Zomato data
-```
+   
 ---
 
 ## 📊 GitHub Analytics
