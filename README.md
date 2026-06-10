@@ -8,7 +8,7 @@
 
 ## 🌌 About Me
 
-- 🎓 BCA (AI) Student
+- 🎓 BCA (AI) Graduate
 - 📊 Data Analyst | Machine Learning Enthusiast
 - 💡 Passionate about solving real-world problems using data
 - 📈 Building dashboards, predictive models & insights
