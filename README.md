@@ -9,9 +9,10 @@
 ## 🌌 About Me
 
 - 🎓 BCA (AI) Graduate
-- 📊 Data Analyst | Machine Learning Enthusiast
-- 💡 Passionate about solving real-world problems using data
-- 📈 Building dashboards, predictive models & insights
+- 📊 Aspiring Data Analyst & Data Scientist
+- 🤖 Skilled in Python, SQL, Power BI, Machine Learning & Data Visualization
+- 💡 Passionate about transforming data into actionable insights
+- 🚀 Building end-to-end analytics and machine learning projects
 
 ---
 
@@ -39,6 +40,10 @@
 ### ❤️ Cardiovascular Disease Risk Prediction:
 - Predicts heart disease risk using ML models
 
+### 🏏 IPL Win Probability Predictor
+- Machine learning-powered IPL match win prediction system
+- Interactive Streamlit application with real-time probability analysis
+  
 ### 🎬 Movie Recommendation System:
 - Recommends movies using collaborative filtering
 
