@@ -47,6 +47,10 @@
 ### 🎬 Movie Recommendation System:
 - Recommends movies using collaborative filtering
 
+### 🏥 Hospital Patient Management System:
+- Built a MySQL-based healthcare database with 7 relational tables
+- Performed SQL analytics on patient records, appointments, admissions, and billing
+
 ### 📈 Power BI Dashboards:
 - Business insights from E-commerce & Zomato data
 
